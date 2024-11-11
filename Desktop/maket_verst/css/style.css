@@ -1,0 +1,122 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+ 
+.link {
+   color: black;
+   text-decoration: none; 
+} 
+.link-list{
+    width:fit-content;
+    margin: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    
+} 
+.link-item{
+    display: inline;
+    margin-right: 72px;
+    
+    
+} 
+.nav-menu{
+    width:fit-content;
+    margin: auto;
+
+   
+    
+}
+.main-img{
+   width: 100%;
+   height: auto;   /* Сохраняет пропорции изображения */
+
+}
+
+.sec-header{
+    width:fit-content;
+    margin: auto;
+    font-size: 48px;
+    line-height:64.8px ;
+}
+
+.main-text{
+    font-family:inter;
+    font-size: 21px;
+    padding-top: 40px;
+    padding-bottom :24px; ;
+    margin: auto;
+    box-sizing:border-box;
+    font-weight: 500;
+    line-height:31.5px ;
+    
+
+
+}
+
+.selected{
+    font-size:21px ;
+    font-family:inter ;
+    font-weight: 600;
+    color: #04959e;
+}
+
+.main-li{
+    margin: auto;
+    box-sizing:border-box;
+    padding-bottom: 40px;
+    font-family:inter;
+    font-size: 18px;
+    list-style-position: inside; /* щоб цифри списку входили в блок візуально  */
+    line-height:27px;
+    
+   
+}
+.content-wrapper{
+    width: 856px;
+    height: 615px;
+    margin: auto;
+    line-height:27px ;
+    padding-top: 88px;
+    padding-bottom: 88px;
+}
+
+
+
+
+.button{
+    background-color: #04959E;
+    color:aliceblue;
+    text-decoration-line: none;
+    display: block;
+    padding:10px 24px 10px 24px;
+    margin: auto;
+    width:145px ;
+    height: 44px;
+    box-sizing: border-box;
+    text-align: center; /*текст вирів по центру відносно кнопки */
+   
+    
+} 
+
+.footer {
+    font-family:inter;
+    font-size: 18px; 
+    line-height:27px;
+    border-top: 1px solid black ;
+  
+  
+    
+    
+   
+   
+}
+.text-footer{
+    margin: auto;
+    width: fit-content;
+    padding:16px 355px 16px 355px;
+   
+   
+
+}
+
